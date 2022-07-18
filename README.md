@@ -2,14 +2,14 @@
 
 ### Endpoints
 
-**Get /api/images** requires filename, width, height as query parameters
+**Get /api/images** requires filename, width, height as query parameters <br />
 returns image resized with specified width X height
 
 ### Commands
 
-**"test"** run endpoint and functions testing
-**"lint"** for linting
-**"prettier"** code formating
-**"dev"** for developers
-**"build"** for building
-**"start"** to run the server
+**"test"** run endpoint and functions testing <br />
+**"lint"** for linting <br />
+**"prettier"** code formating <br />
+**"dev"** for developers <br />
+**"build"** for building <br />
+**"start"** to run the server <br />
